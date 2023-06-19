@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ryan Suzuki Wong
 - 👀 I love meeting new people and continuing my education in the tech field. 
+- 💼 I have experience and enjoy working in a startup environment where proactivity, resiliency, and communication is key. 
 - 📫 How to reach me: Email: ryan.suzuki.w@gmail.com
 
 <!---
